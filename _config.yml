@@ -62,7 +62,7 @@ footer-text: Copyright (c) 2024 lemon
 disqus: # fromendworld
 
 # Gitalk
- gitalk:
+gitalk:
   clientID: af48914a416d125765ad
   clientSecret: 1c33ee4aa1efdf80a5ccb2c22883a39b2654dbcf
   repo: MacarenaKK.github.io
