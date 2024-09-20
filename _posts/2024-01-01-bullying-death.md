@@ -2,7 +2,7 @@
 layout: post
 title: "可耻的校园霸凌者-曝光台"
 date: 2024-01-01
-tags: [霸凌][赣州][南康中学]
+tags: [霸凌]
 comments: true
 author: Justice
 ---
